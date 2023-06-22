@@ -3,7 +3,8 @@ package pro1;
 public class Main1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// my first commit
+
         int num=-8;
         if (num>=0)
         {
